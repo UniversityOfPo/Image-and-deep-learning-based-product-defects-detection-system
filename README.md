@@ -1,4 +1,4 @@
-# Image-and-deep-learning-based-product-defects-detection-system
+# Industrial Product Defect Detection Using Custom U-Net
 Numerous automated labour-saving systems have
 been created and implemented to lower production costs and
 enhance product quality. Systems for intelligent visual analysis
